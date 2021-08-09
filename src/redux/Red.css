@@ -1,0 +1,13 @@
+*{padding: 0;margin: 0;box-sizing: border-box;}
+h1{background-color: green;text-transform: capitalize;
+text-align: center;padding: 1%;}
+.con{background-color: rgba(250, 250, 0, .50);
+display: flex;justify-content: center;align-items: center;}
+.main{width: 30%;margin: 3%; padding: 2%;background-color:rgba(250, 50, 30, .50) ;
+border-radius: 5%;}
+input,label{margin:1%;padding: 1%;margin-bottom: 2%;border-style: none;
+	border-bottom: 2px solid red;outline-style: none;}
+input{width: 50%;}
+label{text-transform: capitalize;}
+img{border-radius: 5%}
+button{background-color: yellow;padding:10px;font-size: 20px;margin: 2% 50%;}
